@@ -1,0 +1,7 @@
+## 3. Refleksi
+
+Menurut saya, platform Web merupakan platform yang paling menarik untuk dipelajari karena bisa digunakan untuk membuat aplikasi yang diakses melalui browser. Jadi, pengguna tidak perlu memasang aplikasi terlebih dahulu untuk menggunakannya. Selain itu, pengembangan web menggunakan beberapa teknologi seperti HTML untuk menyusun struktur halaman, CSS untuk mengatur tampilan, dan JavaScript untuk menambahkan interaksi. Saya tertarik memahami bagaimana ketiga teknologi tersebut bekerja sama untuk membangun sebuah aplikasi web.
+
+Saat melakukan setup environment, saya sempat bingung memahami fungsi setiap aplikasi dan cara menggunakannya. Saya juga perlu belajar menggunakan perintah di terminal untuk memeriksa versi perangkat lunak. Selain itu, saya harus memahami cara menggunakan Git dan menghubungkan file dari komputer ke repository GitHub. Proses ini cukup membingungkan karena perlu teliti saat mengetik perintah. Jika ada kesalahan, prosesnya bisa terhambat.
+
+Ke depannya, saya akan lebih sering berlatih menggunakan tools tersebut supaya terbiasa. Saya juga akan mempelajari materi yang belum dipahami melalui dokumentasi dan tutorial di internet. Selain itu, saya bisa memanfaatkan AI sebagai alat bantu belajar untuk memahami materi atau mencari petunjuk saat mengalami error. Saya akan mencoba memahami pesan error terlebih dahulu sebelum mencari solusinya. Dengan begitu, saya berharap bisa lebih percaya diri saat menyiapkan environment dan mengerjakan tugas berikutnya.
